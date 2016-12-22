@@ -1,3 +1,7 @@
 baseurl = "http://magician-polecat-55324.netlify.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bring Your Own Identity"
+
+[params]
+  subtitle = "A collection of rants on Identity Management, mobility and everything else"
+  author = "Alessandro Festa - @bringyourownid

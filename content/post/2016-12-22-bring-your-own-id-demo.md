@@ -1,9 +1,9 @@
 ---
-title: '(BYOI) Bring Your Own Identity : Lie to me'
+title: '(BYOI) Bring Your Own Identity : Demo'
 author: Administrator
 layout: post
-date: 2016-09-21T00:00:00.000Z
-url: /byoi-bring-your-own-identity-lie-to-me/
+date: 2016-12-22
+url: /byoi-bring-your-own-identity-demo/
 categories:
   - Identity Management
   - Life

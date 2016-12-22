@@ -18,13 +18,8 @@ published: true
 > 
 > _-Dr. (standing in the bank, talking to some blonde woman) &#8211; Lie to Me (TV Series)_
 > 
-> > We loved with a love that was more than love
 
 Let’s face it, we all lied at work. At least once.
- 
- [<img style="background-image: none; float: none; padding-top: 0px; padding-left: 0px; margin-left: auto; display: block; padding-right: 0px; margin-right: auto; border: 0px;" title="photo-1457305237443-44c3d5a30b89" src="http://alfweb.com/bg/wp-content/uploads/2016/09/photo-1457305237443-44c3d5a30b89_thumb.jpg" alt="photo-1457305237443-44c3d5a30b89" width="490" height="326" border="0" />][1]
-
-[https://hd.unsplash.com/photo-1457305237443-44c3d5a30b89][2]
 
 A research demonstrated that Americans average almost two lies per day and other researches  demonstrated that the distribution of lies follow Pareto’s principle:20% of people tell 80% of the lies, and 80% of people account for the remaining 20% of lies.
 

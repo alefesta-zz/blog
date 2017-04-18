@@ -1,0 +1,54 @@
+==================================================================
+https://keybase.io/alefesta
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.alfweb.com
+  * I am alefesta (https://keybase.io/alefesta) on keybase.
+  * I have a public key ASCIWOnG__dg8An1NdvLyOM0Y0WRipolw0mGLnjpt3HCDAo
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101dd9e918b7d6687484d5000b07b79d9b656b5b42f1b2db8d27de366f16283367c0a",
+            "host": "keybase.io",
+            "kid": "01208858e9c6fff760f009f535dbcbc8e3346345918a9a25c349862e78e9b771c20c0a",
+            "uid": "2da21c5a6fc845e06ad9809d1385ae19",
+            "username": "alefesta"
+        },
+        "service": {
+            "hostname": "www.alfweb.com",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "client": {
+        "name": "keybase.io go client",
+        "version": "1.0.21"
+    },
+    "ctime": 1492543926,
+    "expire_in": 504576000,
+    "merkle_root": {
+        "ctime": 1492543891,
+        "hash": "7942b47fa970cb7f490af0e38ced09583155037927b88fc77de0188494e11892277c72bb43b3cabe12ebfa75ab000574746688cdf2c01c93ba66364ff4d3edbf",
+        "seqno": 1026537
+    },
+    "prev": "cd2c6242be544a601c8bdf846f95845bc302e4b399626cc2e8d7de81316117b1",
+    "seqno": 8,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgiFjpxv/3YPAJ9TXby8jjNGNFkYqaJcNJhi546bdxwgwKp3BheWxvYWTFAvd7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTAxZGQ5ZTkxOGI3ZDY2ODc0ODRkNTAwMGIwN2I3OWQ5YjY1NmI1YjQyZjFiMmRiOGQyN2RlMzY2ZjE2MjgzMzY3YzBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODg1OGU5YzZmZmY3NjBmMDA5ZjUzNWRiY2JjOGUzMzQ2MzQ1OTE4YTlhMjVjMzQ5ODYyZTc4ZTliNzcxYzIwYzBhIiwidWlkIjoiMmRhMjFjNWE2ZmM4NDVlMDZhZDk4MDlkMTM4NWFlMTkiLCJ1c2VybmFtZSI6ImFsZWZlc3RhIn0sInNlcnZpY2UiOnsiaG9zdG5hbWUiOiJ3d3cuYWxmd2ViLmNvbSIsInByb3RvY29sIjoiaHR0cHM6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjIxIn0sImN0aW1lIjoxNDkyNTQzOTI2LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwibWVya2xlX3Jvb3QiOnsiY3RpbWUiOjE0OTI1NDM4OTEsImhhc2giOiI3OTQyYjQ3ZmE5NzBjYjdmNDkwYWYwZTM4Y2VkMDk1ODMxNTUwMzc5MjdiODhmYzc3ZGUwMTg4NDk0ZTExODkyMjc3YzcyYmI0M2IzY2FiZTEyZWJmYTc1YWIwMDA1NzQ3NDY2ODhjZGYyYzAxYzkzYmE2NjM2NGZmNGQzZWRiZiIsInNlcW5vIjoxMDI2NTM3fSwicHJldiI6ImNkMmM2MjQyYmU1NDRhNjAxYzhiZGY4NDZmOTU4NDViYzMwMmU0YjM5OTYyNmNjMmU4ZDdkZTgxMzE2MTE3YjEiLCJzZXFubyI6OCwidGFnIjoic2lnbmF0dXJlIn2jc2lnxEBPZBQ9cE0zwjfKv35MBjOTXtENQfcVq1mt+P2mh7rfczwrzIeXcAOdxVo+PDIo8pS+qsCFRILY15vWy04xzlkAqHNpZ190eXBlIKRoYXNogqR0eXBlCKV2YWx1ZcQgfmkgkiVyE/DKe01DYJTKp/W286ImkKgmAg826t6WvKGjdGFnzQICp3ZlcnNpb24B
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/alefesta
+
+==================================================================
